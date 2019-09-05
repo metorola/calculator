@@ -1,0 +1,24 @@
+.button {
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+	cursor: pointer;
+}
+
+.button:hover {
+	box-shadow: 2px 2px;
+}
+
+#equalButton {
+	height: 200px;
+	background-color: orange;
+}
+
+#delButton {
+	width: 200px;
+}
+
+.specialButton {
+	background-color: #B8C5D1;
+}
+
